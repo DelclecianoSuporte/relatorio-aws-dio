@@ -21,8 +21,8 @@ A seguir, serão descritas as etapas do projeto:
 Hospedagem de sistemas internos, como ERPs ou sistemas para controle de estoque, com alta disponibilidade e escalabilidade.
 
 **Descrição de caso de uso:**  
-A empresa poderá migrar seus sistemas legados para a nuvem, eliminando a necessidade de servidores físicos locais.  
-Isso reduz custos com manutenção, energia e infraestrutura, além de permitir que os sistemas operem com maior estabilidade e segurança.
+A empresa poderá migrar seus sistemas legados para a nuvem, eliminando a necessidade de servidores físicos locais. Isso reduz custos com manutenção, energia e infraestrutura, 
+além de permitir que os sistemas operem com maior estabilidade e segurança.
 
 ### Principais ganhos:
 - Eliminação de servidores físicos locais
